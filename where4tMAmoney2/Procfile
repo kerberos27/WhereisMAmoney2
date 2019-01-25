@@ -1,0 +1,3 @@
+web : python3 /root/Desktop/where4tMamoney/python-getting-started/manage.py runserver
+worker: python3 /root/Desktop/where4tMAmoney/__init__.py
+
